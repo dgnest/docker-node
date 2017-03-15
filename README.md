@@ -1,11 +1,9 @@
 # Docker docker-node
 
-<span class="badges" align="center">
 [![Build Status](https://travis-ci.org/dgnest/docker-node.svg)](https://travis-ci.org/dgnest/docker-node)
 [![Stories in Ready](https://badge.waffle.io/dgnest/docker-node.svg?label=ready&title=Ready)](http://waffle.io/dgnest/docker-node)
 [![GitHub issues](https://img.shields.io/github/issues/dgnest/docker-node.svg)](https://github.com/dgnest/docker-node/issues)
 [![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](LICENSE)
-</span>
 
 
 Requirements
