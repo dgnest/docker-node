@@ -1,4 +1,4 @@
-FROM dgnest/node:6.10.0
+FROM node:6.10.0
 MAINTAINER Luis Mayta <@slovacus>
 
 # Install OptiPNG
