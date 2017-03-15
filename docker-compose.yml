@@ -1,0 +1,7 @@
+networks: {}
+version: '2'
+services:
+  docker-node:
+    restart: always
+    build: .
+    image: python:3.6.0
