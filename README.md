@@ -35,8 +35,6 @@ Made with :heart: :coffee: and :pizza:by [dgnest][link-company].
 - [All Contributors][link-contributors]
 
 
-<!-- Other -->
-
 [link-company]: https://github.com/dgnest
 [link-author]: https://github.com/luismayta
 [link-contributors]: AUTHORS
